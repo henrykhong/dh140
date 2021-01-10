@@ -1,7 +1,7 @@
 ## About Me
 👋 My name is Henry (he/him)! I'm a 3rd year majoring in Applied Ling and double minoring in DH and Korean. Professionally, I want to work in 🗣 digital marketing 📈 so I can have the liberty of alinging my 🎨 creativity 🤝 and 🏗 tech. I'm also a proud plant dad of 2 ☀️🌱🌿
 
-<img src="https://user-images.githubusercontent.com/77145165/104112168-44f3b780-52a0-11eb-88b2-0724507146e5.JPG" width="350" height="550"/>
+<img src="https://user-images.githubusercontent.com/77145165/104112168-44f3b780-52a0-11eb-88b2-0724507146e5.JPG" width="400" height="550"/>
 
 #### Let's [Connect](https://www.linkedin.com/in/hkhong/) ‼️
 
