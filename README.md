@@ -17,5 +17,5 @@ This past year has proven incredibly difficult and unrehearsed, as we continue t
 
 For a project, I'm interested in examining human happiness in the context of COVID-19. My objective for this project would be to compare happiness scores between the US and Asia (e.g, China, South Korea, and Vietnam) since these two areas seem to be handling the pandemic differently. By comparing multiple factors (e.g., safety protocols, public compliance, death tolls), we can explain the quality of life in these different areas, and ultimately, make sense of why their happiness scores are represented the way they are.
 
-## Course Objective
+## Personal Objective
 DH 140 seems like the peferct opportunity for my interests, as I will be able to build on my computational abilties 🤓 and ulitmately use these hard-tech skills to fulfill humanities-driven research 🤔
