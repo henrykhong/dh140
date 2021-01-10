@@ -4,3 +4,8 @@
 <img src="https://user-images.githubusercontent.com/77145165/104112168-44f3b780-52a0-11eb-88b2-0724507146e5.JPG" width="600" height="800"/>
 
 #### Let's [Connect](https://www.linkedin.com/in/hkhong/) ‼️
+
+## Data Science Project
+This past year has proven incredibly difficult and unrehearsed, as we continue this drawn out battle against the COVID-19 pandemic. Since March of 2020, the US has implemented numerous legislations and  guidelines in an attempt to mitigate the spread of the virus. Not only were our personal lives impacted by these rapid changes (e.g., enforced masks, social distancing, limited gatherings) but we also saw dramatic changes in the work force and school: massive layoffs, shuttered down campuses, and a mass human migration to Zoom. No one could've prepared for COVID-19, and in truth, many of us still aren't adjusted to this reality. With no answer to when this all will end, we can assume that people's confidence and outlook on life are extremely low.
+
+That said, I'm interested in working on a project that looks at happiness in the context of COVID-19. My objective for this project would be to compare happiness scores between the US and Asia (e.g, China, South Korea, and Vietnam) since these two areas seem to have different regulations and attitudes towards handling the pandemic.  
