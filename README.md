@@ -12,7 +12,7 @@
 * Learn to visualize data geo-temporally to communicate the importance of place-based and time-based informatics
 * Learn to produce publication-ready scholarly materials in the form of tables, charts, and maps
 
-## Personal Objective
+## Personal Objectives
 DH 140 seems like the peferct opportunity for my interests, as I will be able to build on my computational abilties 🤓 and ulitmately use these hard-tech skills to fulfill humanities-driven research 🤔
 
 ## Data Science Project
